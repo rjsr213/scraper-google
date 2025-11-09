@@ -49,5 +49,3 @@ Parámetros principales:
 
 - El archivo `requirements.txt` incluye Selenium, BeautifulSoup, lxml y el SDK oficial de OpenAI.
 - `.gitignore` ignora entornos virtuales, cache y artefactos locales (`*.html`, `*.txt`, etc.) para mantener el repo limpio.
-
-¡Listo para subir el repositorio!
